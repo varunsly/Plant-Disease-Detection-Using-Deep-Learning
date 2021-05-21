@@ -1,8 +1,6 @@
 # Plant-Disease-Detection-Using-Deep-Learning
 Using Visual Transformers, CNN, Transfer Learning on Plant Disease Dataset for identification of various diseases. 
 
-## About 
-
 # Dataset 
 **[Plant Diseases Dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)** is a image dataset containing different healthy and unhealthy crop leaves. The dataset used in this study is an augmented version of the PlantVillage dataset containing 87.9k images derived from the 54k images of the original dataset. This dataset contains 38 classes of plant-disease pairs. 
 
