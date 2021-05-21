@@ -16,5 +16,5 @@ Using Visual Transformers, CNN, Transfer Learning on Plant Disease Dataset for i
 # Other Authors
 * **[Ebrahim Hirani](https://github.com/EbsHirani)**
 * **[Jainam Jain]**
-* **Prof. Pramod Bide(Project Supervisor)(https://comp.spit.ac.in/faculty/prof-pramod-bide/)**
+* **[Prof. Pramod Bide(Project Supervisor)](https://comp.spit.ac.in/faculty/prof-pramod-bide/)**
  
